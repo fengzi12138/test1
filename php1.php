@@ -1,2 +1,3 @@
-<%php type=color.red
+<%php type=color.red;
+     new add
 >
